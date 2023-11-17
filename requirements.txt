@@ -3,3 +3,4 @@ numpy==1.22.4
 matplotlib==3.7.1
 seaborn==0.12.2
 watermark==2.4.3
+scipy==1.11.13
